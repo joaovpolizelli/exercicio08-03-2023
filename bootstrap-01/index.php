@@ -14,7 +14,7 @@
     <div class="container">
         <div class="row">
             <div class="col">
-                <h3>Cadastro De Clientes</h3>
+                <h3 class="text-center">Cadastro De Clientes</h3>
                 <form action="" method="post">
                     <div class="row">
                         <div class="col-6">
