@@ -10,13 +10,11 @@
 
 <body>
 
-    <form action="idade.php" method="get" name="form_idade">
+    <form method="get" name="form_idade" action="idade.php">
 
-Digite sua idade: <input type ="text" name="idade"/>
-<input type="submit" value="Enviar"/>
+Digite sua idade: <input type="text" name="idade" />
+<input type="submit" value="Enviar" />
 
     </form>
-
 </body>
-
 </html>
